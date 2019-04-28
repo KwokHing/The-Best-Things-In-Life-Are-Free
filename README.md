@@ -33,3 +33,7 @@ A collection of massive open online courses (MOOCs), and online learning resourc
 
 ### User Research: ###
 - [UserZoom Academy](https://academy.userzoom.com/) 
+
+
+### Bonus ###
+- [Packt Free Programming eBooks and Videos]https://www.packtpub.com/packt/offers/free-learning - Free programming ebooks / Videos everyday
