@@ -17,8 +17,10 @@ A collection of massive open online courses (MOOCs), and online learning resourc
 - [MongoDB University](https://university.mongodb.com/) - noSQL Mongo databases
 - [Unity Learn](https://learn.unity.com/) - focuses on 3D and 2D games, animation, VR and AR
 
-### Digital Marketing and Technology: ###
+### Digital Marketing: ###
 - [Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage/courses)
+- [Google Analytics Academy](https://analytics.google.com/analytics/academy/)
+- [Facebook Blueprint](https://www.facebookblueprint.com/student/catalog)
 
 ### Journalism and Data Visualisation: ###
 - [Knight Center for Journalism in the Americas](https://journalismcourses.org/)
