@@ -1,9 +1,9 @@
 # The Best Things In Life Are Free
 A collection of massive open online courses (MOOCs), and online learning resources for personal development 
 
-- [coursera.org] (https://www.coursera.org)
-- [edx.org] (https://www.edx.org)
-- [futurelearn.com] (https://www.futurelearn.com)
+- [coursera.org](https://www.coursera.org)
+- [edx.org](https://www.edx.org)
+- [futurelearn.com](https://www.futurelearn.com)
 
 * testautomationu.applitools.com/
 * open.sap.com
