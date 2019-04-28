@@ -1,12 +1,12 @@
 # The Best Things In Life Are Free
 A collection of massive open online courses (MOOCs), and online learning resources for personal development 
 
-Platforms with a wide range of topics, ranging from Science and Technology to Business and Management:
+###Platforms with a wide range of topics, ranging from Science and Technology to Business and Management:###
 - [coursera.org](https://www.coursera.org)
 - [edx.org](https://www.edx.org)
 - [futurelearn.com](https://www.futurelearn.com)
 
-Technology focused platforms:
+###Technology focused platforms:###
 - [openSAP](https://open.sap.com) - focuses on SAP products, system design and project management
 - [Test Automation University](https://testautomationu.applitools.com/) - focuses on testing automation for applications
 - [Udacity](https://www.udacity.com/courses/all) - focuses on various programming languages and data science
