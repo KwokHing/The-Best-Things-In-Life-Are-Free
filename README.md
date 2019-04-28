@@ -14,8 +14,8 @@ A collection of massive open online courses (MOOCs), and online learning resourc
 - [AWS Training](https://www.aws.training/LearningLibrary) - focuses on Amazon Web Services
 - [Microsoft Learn](https://docs.microsoft.com/en-us/learn/) - focuses on Microsoft products
 - [Dotnet](https://dotnet.microsoft.com/learn) - focuses on Dotnet resources 
-- [MongoDB University](https://university.mongodb.com/) 
-- [Unity Learn](https://learn.unity.com/)
+- [MongoDB University](https://university.mongodb.com/) - noSQL Mongo databases
+- [Unity Learn](https://learn.unity.com/) - focuses on 3D and 2D games, animation, VR and AR
 
 ### Digital Marketing and Technology: ###
 - [Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage/courses)
