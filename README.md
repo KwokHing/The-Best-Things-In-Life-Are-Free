@@ -18,10 +18,14 @@ A collection of massive open online courses (MOOCs), and online learning resourc
 - [Unity Learn](https://learn.unity.com/) - focuses on 3D and 2D games, animation, VR and AR
 - [Salesforce Trailhead](https://trailhead.salesforce.com/en/home) 
 
+### Statistics ###
+- [JMP Online Statistics](https://www.jmp.com/en_us/online-statistics-course.html)
+
 ### Digital Marketing: ###
 - [Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage/courses)
 - [Google Analytics Academy](https://analytics.google.com/analytics/academy/)
 - [Facebook Blueprint](https://www.facebookblueprint.com/student/catalog)
+- [Hubspot Academy](https://academy.hubspot.com/)
 
 ### Journalism and Data Visualisation: ###
 - [Knight Center for Journalism in the Americas](https://journalismcourses.org/)
