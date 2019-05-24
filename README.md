@@ -18,7 +18,7 @@ A collection of massive open online courses (MOOCs), and online learning resourc
 - [Unity Learn](https://learn.unity.com/) - focuses on 3D and 2D games, animation, VR and AR
 - [Salesforce Trailhead](https://trailhead.salesforce.com/en/home) 
 
-### Statistics ###
+### Statistics: ###
 - [JMP Online Statistics](https://www.jmp.com/en_us/online-statistics-course.html)
 
 ### Digital Marketing: ###
@@ -40,5 +40,5 @@ A collection of massive open online courses (MOOCs), and online learning resourc
 - [UserZoom Academy](https://academy.userzoom.com/) 
 
 
-### Bonus ###
+### Bonus: ###
 - [Packt Free Programming eBooks and Videos](https://www.packtpub.com/packt/offers/free-learning) - Free programming ebooks / Videos everyday
