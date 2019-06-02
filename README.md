@@ -18,6 +18,7 @@ A collection of massive open online courses (MOOCs), and online learning resourc
 - [MongoDB University](https://university.mongodb.com/) - noSQL Mongo databases
 - [Unity Learn](https://learn.unity.com/) - focuses on 3D and 2D games, animation, VR and AR
 - [Salesforce Trailhead](https://trailhead.salesforce.com/en/home) 
+- [Data2Dimensions](https://d2academics.thinkific.com/collections)
 
 ### Statistics: ###
 - [JMP Online Statistics](https://www.jmp.com/en_us/online-statistics-course.html)
