@@ -13,6 +13,7 @@ A collection of massive open online courses (MOOCs), and online learning resourc
 - [Cognitive Class](https://cognitiveclass.ai/) - focuses on data science and cognitive computing courses
 - [AWS Training](https://www.aws.training/LearningLibrary) - focuses on Amazon Web Services
 - [Microsoft Learn](https://docs.microsoft.com/en-us/learn/) - focuses on Microsoft products
+- [Microsoft Dev Collective](https://developer.microsoft.com/en-us/collective/learning/paths)
 - [Dotnet](https://dotnet.microsoft.com/learn) - focuses on Dotnet resources 
 - [MongoDB University](https://university.mongodb.com/) - noSQL Mongo databases
 - [Unity Learn](https://learn.unity.com/) - focuses on 3D and 2D games, animation, VR and AR
