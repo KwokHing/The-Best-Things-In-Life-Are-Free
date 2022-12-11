@@ -16,6 +16,7 @@ A collection of massive open online courses (MOOCs), and online learning resourc
 - [Microsoft Dev Collective](https://developer.microsoft.com/en-us/collective/learning/paths)
 - [Dotnet](https://dotnet.microsoft.com/learn) - focuses on Dotnet resources 
 - [MongoDB University](https://university.mongodb.com/) - noSQL Mongo databases
+- [Neo4j](https://graphacademy.neo4j.com/ - neo4j graph databases
 - [Unity Learn](https://learn.unity.com/) - focuses on 3D and 2D games, animation, VR and AR
 - [Salesforce Trailhead](https://trailhead.salesforce.com/en/home) 
 - [Data2Dimensions](https://d2academics.thinkific.com/collections)
