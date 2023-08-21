@@ -1,5 +1,9 @@
 # The Best Things In Life Are Free
-A collection of massive open online courses (MOOCs), and online learning resources for personal development 
+A collection of massive open online courses (MOOCs), and online learning resources for personal development  
+
+### Textual Generative AI & LLMs ###
+- [DeepLearning.AI](https://www.deeplearning.ai/short-courses/)
+- [Google Cloud Skills Boost](https://www.cloudskillsboost.google/journeys/118)
 
 ### Platforms with a wide range of topics, ranging from Science and Technology to Business and Management: ###
 - [coursera.org](https://www.coursera.org)
