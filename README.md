@@ -6,6 +6,7 @@ A collection of massive open online courses (MOOCs), and online learning resourc
 - [Google Cloud Skills Boost](https://www.cloudskillsboost.google/journeys/118)
 - [Cohere LLM University](https://docs.cohere.com/docs/llmu)
 - [HuggingFace Courses](https://huggingface.co/learn)
+- [Snowflake Data Cloud Academy](https://www.snowflake.com/data-cloud-academy-generative-ai-llm/)
 
 ### Platforms with a wide range of topics, ranging from Science and Technology to Business and Management: ###
 - [coursera.org](https://www.coursera.org)
